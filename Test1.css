@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url('your-snowflake-background-image.jpg'); /* замініть на посилання на ваше зображення сніжинок */
+    background-size: cover;
+    color: #333;
+}
+
+.holiday-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 10% auto;
+    padding: 20px;
+    width: 50%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.holiday-card h1 {
+    color: #006400; /* Темно-зелений колір */
+}
+
+.holiday-card p {
+    font-size: 18px;
+}
+
+/* Додаткові стилі можуть бути додані тут */
